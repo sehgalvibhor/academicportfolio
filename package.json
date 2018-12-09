@@ -2,6 +2,7 @@
   "name": "academicportfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sehgalvibhor.github.io/academicportfolio",
   "dependencies": {
     "antd": "^3.11.0",
     "babel-plugin-import": "^1.11.0",
