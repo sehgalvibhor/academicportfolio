@@ -1,2 +1,2 @@
 # academicportfolio
-React based Academic Portfolio. Topped and decorated by AntDesign
+React based Academic Portfolio using AntDesign.
