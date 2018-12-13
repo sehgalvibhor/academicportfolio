@@ -1,4 +1,6 @@
-# academicportfolio
+[![HitCount](http://hits.dwyl.io/sehgalvibhor/academicportfolio.svg)](http://hits.dwyl.io/sehgalvibhor/academicportfolio)
+
+# academicportfolio 
 A simple yet stylish academic portfolio designed using AntDesign and React.js.
 
 ## Installation and Running 
