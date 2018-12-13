@@ -1,7 +1,20 @@
 # academicportfolio
-React based Academic Portfolio. Topped and decorated by AntDesign
+A simple yet stylish academic portfolio designed using AntDesign and React.js.
+
+## Installation and Running 
+
+```
+npm install
+npm start
+```
+
+## Theming
+
+To be added in future,
 
 
-## Homepage
+## Portfolio Overview
+
+### Homepage
 
 ![image](https://user-images.githubusercontent.com/10993808/49693776-54284880-fba2-11e8-9f69-903721f5cfc3.png)
