@@ -1,7 +1,8 @@
-[![HitCount](http://hits.dwyl.io/sehgalvibhor/academicportfolio.svg)](http://hits.dwyl.io/sehgalvibhor/academicportfolio)
+# academicportfolio [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](http://hits.dwyl.io/sehgalvibhor/academicportfolio.svg)](http://hits.dwyl.io/sehgalvibhor/academicportfolio)
 
-# academicportfolio 
 A simple yet stylish academic portfolio designed using AntDesign and React.js.
+
+``` PS : "hits" = "How Idiots Track Success"``` 
 
 ## Installation and Running 
 
